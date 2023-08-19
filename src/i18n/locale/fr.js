@@ -50,7 +50,7 @@ export default {
         fullscreen: 'Plein écran',
         'sw-visibility': 'Voir les composants',
         'export-template': 'Voir le code',
-        'open-sm': 'Ouvrir le gestionnaire de style',
+        'open-sm': 'Ouvrir le gestionnaire de styles',
         'open-tm': 'Paramètres',
         'open-layers': 'Ouvrir le gestionnaire de calques',
         'open-blocks': 'Ouvrir le gestionnaire de blocs',
@@ -68,7 +68,7 @@ export default {
     },
   },
   styleManager: {
-    empty: "Veuillez sélectionner un élément avant d'utiliser le gestionnaire de style",
+    empty: "Veuillez sélectionner un élément avant d'utiliser le gestionnaire de styles",
     layer: 'Calque',
     fileButton: 'Images',
     sectors: {
@@ -111,8 +111,8 @@ export default {
       'line-height': 'Espacement des lignes',
       'text-align': 'Alignement de texte',
       'text-shadow': 'Ombre de texte',
-      'text-shadow-h': 'Ombre de texte: horizontale',
-      'text-shadow-v': 'Ombre de texte: verticale',
+      'text-shadow-h': 'Ombre de texte : horizontale',
+      'text-shadow-v': 'Ombre de texte : verticale',
       'text-shadow-blur': 'Flou ombre de texte',
       'text-shadow-color': 'Couleur ombre de texte',
       'border-top-left': 'Bord supérieur gauche',
@@ -129,8 +129,8 @@ export default {
       'border-style': 'Style de bordure',
       'border-color': 'Couleur de bordure',
       'box-shadow': 'Ombre de boîte',
-      'box-shadow-h': 'Ombre de boîte: horizontale',
-      'box-shadow-v': 'Ombre de boîte: verticale',
+      'box-shadow-h': 'Ombre de boîte : horizontale',
+      'box-shadow-v': 'Ombre de boîte : verticale',
       'box-shadow-blur': 'Flou ombre de boîte',
       'box-shadow-spread': "Extension d'ombre de boîte",
       'box-shadow-color': "Couleur d'ombre de boîte",
@@ -167,7 +167,7 @@ export default {
     },
   },
   traitManager: {
-    empty: 'Veuillez sélectionner un élément pour modifier les paramètres de cet élément',
+    empty: 'Veuillez sélectionner un élément pour modifier ses paramètres',
     label: 'Paramètres composant',
     traits: {
       // The core library generates the name by their `name` property
